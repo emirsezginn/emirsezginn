@@ -1,8 +1,8 @@
-![logo]([https://github.com/emirsezginn](https://github.com/emirsezginn/emirsezginn/blob/main/banner))
+![logo](https://github.com/emirsezginn/emirsezginn/blob/main/banner)
 
 <p align="center">
-<a href="https://www.linkedin.com/in/duygujones/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="70" height="20" /></a>
-<a href="https://www.medium.com/@duygujones"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="70" height="20" /></a>
+<a href="https://www.linkedin.com/in/emirhan-sezgin-b1b592315/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="70" height="20" /></a>
+<a href="https://medium.com/@sezginemirhan29"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="70" height="20" /></a>
 
 
 <br>
