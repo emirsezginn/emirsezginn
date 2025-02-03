@@ -14,7 +14,7 @@
 - 📌 Sharing all my projects publicly available on GitHub as open source.
 - 💬 Ask me about Front-End Development.
 - 🤝 Open to collaborating on Projects!
-- 📫 How to reach me : [**LinkedIn**]((https://www.linkedin.com/in/emirhan-sezgin-b1b592315/))
+- 📫 How to reach me : [**LinkedIn**](https://www.linkedin.com/in/emirhan-sezgin-b1b592315/)
 - ⚡ Languages : **English & Turkish**
  
 <br> 
