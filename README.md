@@ -120,5 +120,21 @@
       height="40"
     />
   </a>
+    <a href="https://motion.dev/docs/framer" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg"
+      alt="framer motion"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://styled-components.com/docs" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/styledcomponents/styledcomponents-original.svg"
+      alt="framer motion"
+      width="40"
+      height="40"
+    />
+  </a>
 
 </p>
